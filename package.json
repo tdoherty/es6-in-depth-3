@@ -28,7 +28,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/tdoherty/es6-in-depth-1.git"
+    "url": "https://github.com/tdoherty/es6-in-depth-3.git"
   },
   "keywords": [
     "ES6",
@@ -37,7 +37,7 @@
   "author": "Tim Doherty",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/tdoherty/es6-in-depth-1/issues"
+    "url": "https://github.com/tdoherty/es6-in-depth-3/issues"
   },
-  "homepage": "https://github.com/tdoherty/es6-in-depth-1"
+  "homepage": "https://github.com/tdoherty/es6-in-depth-3"
 }
