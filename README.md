@@ -1,4 +1,4 @@
-# ECMAScript 6 In Depth - Part 2
+# ECMAScript 6 In Depth - Part 3
 
 ## Prerequisites
 * Good understanding of ECMAScript 5.1
